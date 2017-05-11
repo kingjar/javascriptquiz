@@ -1,6 +1,6 @@
 body{
     backgrouund:green;
-    color:white;
+    color:pink;
     font-family: 'Ariel';
     font-size:14px;
 }
@@ -20,3 +20,24 @@ header{
         margin:0;
         padding:0;
     }
+header p{
+ padding:0;
+ margin-top:5px;
+ color:#000;
+}
+section {
+    height:950px;
+}
+footer{
+    text-align:center;
+}
+input [type='submit']
+{background:#f06266;
+    padding:10px;
+    margin: 10px 0px;
+}
+#results span{
+    color:#000;
+    font-weight: bold;
+}
+    
